@@ -26,5 +26,5 @@ More examples can be found [here](https://github.com/jarvis394/markov-catena/tre
 
 ## Features  
 * Easy to use
-* Result validating (~~also built-in validators~~ **TODO**).
+* Result validating (also built-in validators).
 * Result formatting (also built-in formatters). [Example](https://github.com/jarvis394/markov-catena/blob/master/examples/formatters.js)
